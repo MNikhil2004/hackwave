@@ -1,0 +1,1 @@
+this is MERN stack based website for managing blood donations
